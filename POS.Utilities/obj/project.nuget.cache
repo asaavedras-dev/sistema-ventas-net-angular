@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuAr0wg69XY=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asaav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\asaav\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\asaav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
